@@ -1,2 +1,1 @@
-# Techdegree Project 1
- Techdegree Project 1
+This project allows you to click a button and that button calls the fucntion of generating and diplays it back to the user. 
